@@ -8,15 +8,15 @@ function Contact() {
           <div className="col-lg-4 valign">
             <div className="sec-head info-box full-width md-mb80">
               <div className="phone fz-30 fw-600 underline main-color">
-                <a href="#0">+1 840 841 25 69</a>
+                <a href="tel:00302421182282">2421 182 282</a>
               </div>
               <div className="morinfo mt-50 pb-30 bord-thin-bottom">
-                <h6 className="mb-15">Address</h6>
-                <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
+                <h6 className="mb-15">Διεύθυνση</h6>
+                <p>Κ Καρτάλη 150, ΤΚ:38221, Βόλος</p>
               </div>
               <div className="morinfo mt-30 pb-30 bord-thin-bottom">
                 <h6 className="mb-15">Email</h6>
-                <p>Support@UiCamp.com</p>
+                <p><a href="mailto:info@elias-elias.gr">info@elias-elias.gr</a></p>
               </div>
 
               <div className="social-icon mt-50">
@@ -38,9 +38,9 @@ function Contact() {
           <div className="col-lg-7 offset-lg-1 valign">
             <div className="full-width">
               <div className="sec-head mb-50">
-                <h6 className="sub-title main-color mb-15">Let&lsquo;s Chat</h6>
+                <h6 className="sub-title main-color mb-15">ΑΣ ΜΙΛΗΣΟΥΜΕ</h6>
                 <h3 className="text-u ls1">
-                  Send a <span className="fw-200">message</span>
+                  ΑΠΟΣΤΟΛΗ <span className="fw-200">ΜΗΝΥΜΑΤΟΣ</span>
                 </h3>
               </div>
               <form
@@ -58,7 +58,7 @@ function Contact() {
                         id="form_name"
                         type="text"
                         name="name"
-                        placeholder="Name"
+                        placeholder="Όνομα"
                         required="required"
                       />
                     </div>
@@ -82,7 +82,7 @@ function Contact() {
                         id="form_subject"
                         type="text"
                         name="subject"
-                        placeholder="Subject"
+                        placeholder="Θέμα"
                       />
                     </div>
                   </div>
@@ -92,7 +92,7 @@ function Contact() {
                       <textarea
                         id="form_message"
                         name="message"
-                        placeholder="Message"
+                        placeholder="Κείμενο"
                         rows="4"
                         required="required"
                       ></textarea>
@@ -102,7 +102,7 @@ function Contact() {
                         type="submit"
                         className="butn butn-full butn-bord radius-30"
                       >
-                        <span className="text">Let&lsquo;s Talk</span>
+                        <span className="text">ΑΠΟΣΤΟΛΗ</span>
                       </button>
                     </div>
                   </div>
