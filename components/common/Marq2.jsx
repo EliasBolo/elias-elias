@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Marq2() {
-  const marquess = ['Get In Touch']; // Replace with your actual array
+  const marquess = ['Free Analysis']; // Replace with your actual array
   const AllMarquess = Array(6).fill(marquess).flat();
   const contact = ['Contact Us']; // Replace with your actual array
   const AllContact = Array(6).fill(contact).flat();
