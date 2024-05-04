@@ -13,13 +13,12 @@ import Intro from '@/components/home-creative-agency/Intro';
 import Numbers from '@/components/home-creative-agency/Numbers';
 import Portfolio from '@/components/home-creative-agency/Portfolio';
 import Intro2 from '@/components/home-creative-agency/Intro2';
-import Team from '@/components/home-creative-agency/Team';
 import Testimonials from '@/components/home-creative-agency/Testimonials';
 import Clients from '@/components/common/Clients';
 import Blog from '@/components/home-creative-agency/Blog';
 
 export const metadata = {
-  title: 'webfolio',
+  title: 'Elias & Elias',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',
@@ -49,7 +48,6 @@ export default function Home() {
             <Numbers />
             <Portfolio />
             <Intro2 />
-            <Team />
             <Testimonials />
             <Clients />
             <Blog />
