@@ -1,8 +1,4 @@
 {
   "/not-found": "app/not-found.js",
-  "/page": "app/page.js",
-  "/page-contact/page": "app/page-contact/page.js",
-  "/page-services-details/page": "app/page-services-details/page.js",
-  "/portfolio-gallery/page": "app/portfolio-gallery/page.js",
-  "/portfolio-masonry/page": "app/portfolio-masonry/page.js"
+  "/page": "app/page.js"
 }

@@ -35,10 +35,10 @@ function Services() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              <span className="sub-title main-color mb-5">Our Specialize</span>
+              <span className="sub-title main-color mb-5">ΤΙ ΠΡΟΣΦΕΡΟΥΜΕ</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Featured <span className="fw-200">Services.</span>
+                  Expert <span className="fw-200">Services.</span>
                 </span>
               </h3>
             </div>
@@ -74,14 +74,6 @@ function Services() {
                   </div>
                   <h5 className="mb-15">{item.title}</h5>
                   <p>{item.desc}</p>
-                  <a href={item.link} className="rmore mt-30">
-                    <span className="sub-title">Read More</span>
-                    <img
-                      src="/assets/imgs/arrow-right.png"
-                      alt=""
-                      className="icon-img-20 ml-5"
-                    />
-                  </a>
                 </div>
               </SwiperSlide>
             ))}
