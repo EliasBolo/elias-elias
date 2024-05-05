@@ -1179,7 +1179,7 @@ figure {
 
 .progress-wrap svg.progress-circle path {
   stroke: #ccc;
-  strokewidth: 4;
+  stroke-width: 4;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-transition: all 400ms linear;
@@ -3706,6 +3706,7 @@ body.loaded {
 .sec-head h2 span {
   background: -webkit-linear-gradient(#fff, #222);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -5693,7 +5694,7 @@ footer.clean-footer.crev .circle-blur {
 }
 
 .work-fade .swiper-pagination-bullet svg .path {
-  strokewidth: 0.5px;
+  stroke-width: 0.5px;
 }
 
 .work-fade .marq-head {
