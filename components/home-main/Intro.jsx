@@ -20,12 +20,12 @@ function Intro() {
                     <span className="fw-300"> & grow cultures.</span>
                   </h3>
                   <p>
-                  We make sure you're getting the right messages to the right people.
+                  Φροντίζουμε να μεταφέρετε τα σωστά μηνύματα στο σωστό κοινό.
                   </p>
 
                   <a href="/page-about" className="underline main-color mt-40">
                     <span className="text">
-                      More About Us <i className="ti-arrow-top-right"></i>
+                      Περισσότερα για εμάς.. <i className="ti-arrow-top-right"></i>
                     </span>
                   </a>
                 </div>
