@@ -40,8 +40,8 @@ function Clients() {
           <div className="col-lg-6 col-md-10">
             <div className="sec-head text-center mb-80">
               <h3>
-                We&apos;re proud to work with <br /> a{' '}
-                <span className="opacity-7">diverse range of companies.</span>
+                Είμαστε υπερήφανοι για τις τεχνολογίες <br /> a{' '}
+                <span className="opacity-7">που χρησιμοποιούμε εξελισόμενοι.</span>
               </h3>
             </div>
           </div>
