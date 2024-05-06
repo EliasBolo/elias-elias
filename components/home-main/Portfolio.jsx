@@ -29,10 +29,10 @@ function Portfolio() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              <span className="sub-title main-color mb-5">Our Portfolio</span>
+              <span className="sub-title main-color mb-5">Η ΔΟΥΛΕΙΕΣ ΜΑΣ</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Selected <span className="fw-200">Works.</span>
+                  ΕΠΙΛΕΓΜΕΝΑ <span className="fw-200">ΕΡΓΑ.</span>
                 </span>
               </h3>
             </div>
@@ -41,7 +41,7 @@ function Portfolio() {
                 href="/portfolio-gallery"
                 className="butn butn-sm butn-bord radius-30"
               >
-                <span>View All</span>
+                <span>ΠΡΟΒΟΛΗ ΟΛΩΝ</span>
               </a>
               <span className="icon ti-arrow-top-right"></span>
             </div>
@@ -51,8 +51,7 @@ function Portfolio() {
           <div className="col-lg-2 d-flex align-items-end">
             <div className="text pb-100">
               <p>
-                We help our client suceed by creating identities, digital
-                experiences, and printmaterials that communicate clearly
+              Η εταιρία σχηματίζει μια ομάδα ειδικών, συμπεριλαμβανομένων γραφιστών, προγραμματιστών, οικονομολόγων και digital marketers, που θα συνεργαστούν μαζί σας.
               </p>
             </div>
           </div>
