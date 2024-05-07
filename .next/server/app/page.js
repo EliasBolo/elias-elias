@@ -713,7 +713,7 @@ module.exports = JSON.parse('[{"title":"Digital Marketing","img":"/assets/imgs/s
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('[{"img":"/assets/imgs/testim/t1.jpg","name":"Ahmed","subName":"Founder & CEO","desc":"Εμείς, μαζί σας, θα φτιάξουμε το customer journey, το ταξίδι που μετατρέπει το ενδιαφέρον, σε πελατειακή σχέση πολλών ετών ( customer loyalty )."},{"img":"/assets/imgs/testim/t2.jpg","name":"Adam Beckley","subName":"Founder & CEO","desc":"I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working  with a team that can get the job done"},{"img":"/assets/imgs/testim/t3.jpg","name":"Adam Beckley","subName":"Founder & CEO","desc":"I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working  with a team that can get the job done"},{"img":"/assets/imgs/testim/t4.jpg","name":"Adam Beckley","subName":"Founder & CEO","desc":"I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working  with a team that can get the job done"}]');
+module.exports = JSON.parse('[{"img":"/assets/imgs/testim/t1.jpg","name":"Elias","subName":"Founder & CEO","desc":"Εμείς, μαζί σας, θα φτιάξουμε το customer journey, το ταξίδι που μετατρέπει το ενδιαφέρον, σε πελατειακή σχέση πολλών ετών ( customer loyalty )."},{"img":"/assets/imgs/testim/t1.jpg","name":"Elias","subName":"Founder & CEO","desc":"Χωρίς ψεύτικες υποσχέσεις, δεν αναλαμβάνουμε όλα τα project που μας προτιμούν, αν εκτιμήσουμε πωςκάποιες από τις μεταβλητές του, το καταστούν αδύνατο να προχωρήσει."}]');
 
 /***/ })
 
