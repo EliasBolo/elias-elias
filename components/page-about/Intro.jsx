@@ -32,11 +32,13 @@ function Intro() {
               Ξενοδοχεία, ξενώνες, restaurant, φυσικά μαγαζιά, e-Shop, εταιρίες παροχής υπηρεσιών, start up ή υφιστάμενες, αναζητούν πελάτες... Εμείς, σας τους φέρνουμε!!
               Εμείς, μαζί σας, θα φτιάξουμε το customer journey, το "ταξίδι" που μετατρέπει το ενδιαφέρον, σε πελατειακή σχέση πολλών ετών(customer loyalty).
               </p>
+              {/*
               <a href="/page-services" className="underline main-color mt-40">
                 <span className="text">
                   Our Services <i className="ti-arrow-top-right"></i>
                 </span>
               </a>
+              */}
             </div>
           </div>
         </div>

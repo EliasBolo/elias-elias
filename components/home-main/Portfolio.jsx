@@ -36,15 +36,17 @@ function Portfolio() {
                 </span>
               </h3>
             </div>
+            {/*
             <div className="ml-auto vi-more">
               <a
                 href="/portfolio-gallery"
                 className="butn butn-sm butn-bord radius-30"
               >
-                <span>ΠΡΟΒΟΛΗ ΟΛΩΝ</span>
+                 <span>ΠΡΟΒΟΛΗ ΟΛΩΝ</span> 
               </a>
               <span className="icon ti-arrow-top-right"></span>
             </div>
+            */}
           </div>
         </div>
         <div className="row">

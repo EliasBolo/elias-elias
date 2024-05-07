@@ -40,8 +40,8 @@ function Clients() {
           <div className="col-lg-6 col-md-10">
             <div className="sec-head text-center mb-80">
               <h3>
-                Είμαστε υπερήφανοι για τις τεχνολογίες <br /> a{' '}
-                <span className="opacity-7">που χρησιμοποιούμε εξελισόμενοι.</span>
+                Είμαστε υπερήφανοι για τις τεχνολογίες <br />{' '}
+                <span className="opacity-7">που χρησιμοποιούμε εξελισσόμενοι.</span>
               </h3>
             </div>
           </div>
@@ -70,7 +70,7 @@ function Clients() {
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c3.svg" alt="" />
+                  <img src="/assets/imgs/brands/c8.svg" alt="" />
                 </div>
               </div>
             </SwiperSlide>
@@ -107,8 +107,8 @@ function Clients() {
         <div className="sec-bottom mt-100">
           <div className="main-bg d-flex align-items-center">
             <h6 className="fz-14 fw-400">
-              More than <span className="fw-400"> 200+ companies</span>
-              trusted us worldwide
+              Μας επιστεύονται &nbsp;<span className="fw-400"> 100+ &nbsp;</span>
+              επιχειρήσεις
             </h6>
           </div>
         </div>

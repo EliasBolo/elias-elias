@@ -65,7 +65,7 @@ function Clients() {
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c3.svg" alt="" />
+                  <img src="/assets/imgs/brands/c8.svg" alt="" />
                 </div>
               </div>
             </SwiperSlide>
@@ -97,12 +97,19 @@ function Clients() {
                 </div>
               </div>
             </SwiperSlide>
+            <SwiperSlide>
+              <div className="item">
+                <div className="img icon-img-100">
+                  <img src="/assets/imgs/brands/c8.svg" alt="" />
+                </div>
+              </div>
+            </SwiperSlide>
           </Swiper>
         </div>
         <div className="sec-bottom mt-100">
           <div className="main-bg d-flex align-items-center">
             <h6 className="fz-14 fw-400">
-              Μας εμπιστεύονται  <span className="fw-600"> 100+  </span>
+              Μας εμπιστεύονται &nbsp;<span className="fw-600"> 100+ &nbsp; </span>
                επιχειρήσεις
             </h6>
           </div>
