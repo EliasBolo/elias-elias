@@ -12,26 +12,13 @@ function Feat() {
         <div className="row">
           <div className="col-lg-5">
             <div className="cont md-mb50">
-              <h6 className="sub-title main-color mb-15">Trusted Services</h6>
+              <h6 className="sub-title main-color mb-15">ΑΠΑΡΑΙΤΗΤΑ ΒΗΜΑΤΑ</h6>
               <h3 className="mb-30">
-                The service we offer is specifically designed to meet your
-                needs.
+              Η Διαδικασία που ακολουθούμε πρίν απο κάθε συνεργασία...
               </h3>
               <p>
-                Driven professional dedicated to making a lasting impact through
-                innovative solutions and unwavering excellence.
+              Η εταιρία σχηματίζει μια ομάδα ειδικών, συμπεριλαμβανομένων γραφιστών, προγραμματιστών, οικονομολόγων και digital marketers, που θα συνεργαστούν μαζί σας.
               </p>
-              <a
-                href="/page-about"
-                className="butn-crev d-flex align-items-center mt-40"
-              >
-                <span className="hover-this">
-                  <span className="circle hover-anim">
-                    <i className="ti-arrow-top-right"></i>
-                  </span>
-                </span>
-                <span className="text">Learn more</span>
-              </a>
             </div>
           </div>
           <div className="col-lg-6 offset-lg-1">
@@ -43,10 +30,9 @@ function Feat() {
                 ></div>
                 <div className="col-md-8">
                   <div className="info">
-                    <h5 className="mb-15">Web Design</h5>
+                    <h5 className="mb-15">1. Αρχική συνάντηση </h5>
                     <p>
-                      This is the main factor that sets us apart from our
-                      competition and allows us .
+                    Σκοπός μας είναι να κατανοήσουμε τις ανάγκες σου, τους στόχους σου και το κοινό σου.
                     </p>
                   </div>
                 </div>
@@ -60,10 +46,9 @@ function Feat() {
                 ></div>
                 <div className="col-md-8">
                   <div className="info">
-                    <h5 className="mb-15">Branding</h5>
+                    <h5 className="mb-15">2. Αποδοχή ή απόριψη</h5>
                     <p>
-                      This is the main factor that sets us apart from our
-                      competition and allows us .
+                    Στην περίπτωση της αποδοχής, τα βήματα συνεχίζονται.
                     </p>
                   </div>
                 </div>
@@ -77,10 +62,10 @@ function Feat() {
                 ></div>
                 <div className="col-md-8">
                   <div className="info">
-                    <h5 className="mb-15">Marketing</h5>
+                    <h5 className="mb-15">3. Ανάλυση αναγκών</h5>
                     <p>
-                      This is the main factor that sets us apart from our
-                      competition and allows us .
+                    Εκτελούμε λεπτομερή ανάλυση των αναγκών σου
+                     για να προτείνουμε κατάλληλες λύσεις.
                     </p>
                   </div>
                 </div>
