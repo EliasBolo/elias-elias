@@ -40,7 +40,7 @@ function Contact() {
               <div className="sec-head mb-50">
                 <h6 className="sub-title main-color mb-15">ΑΣ ΜΙΛΗΣΟΥΜΕ</h6>
                 <h3 className="text-u ls1">
-                  ΑΠΟΣΤΟΛΗ <span className="fw-200">ΜΗΝΥΜΑΤΟΣ</span>
+                  ΦΟΡΜΑ <span className="fw-200">ΕΠΙΚΟΙΝΩΝΙΑΣ</span>
                 </h3>
               </div>
               <form
@@ -86,17 +86,28 @@ function Contact() {
                       />
                     </div>
                   </div>
-
+                  <div className="col-lg-6">
+                    <div className="form-group mb-30">
+                      <input
+                        id="website"
+                        type="website"
+                        name="website"
+                        placeholder="Η Ιστοσελίδα σας"
+                        required="required"
+                      />
+                    </div>
+                  </div>
                   <div className="col-12">
                     <div className="form-group">
                       <textarea
                         id="form_message"
                         name="message"
-                        placeholder="Κείμενο"
+                        placeholder="Γράψτε λίγα λόγια για εσάς και τι χρειάζεστε απο εμάς"
                         rows="4"
                         required="required"
                       ></textarea>
                     </div>
+                    
                     <div className="mt-30">
                       <button
                         type="submit"
