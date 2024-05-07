@@ -46,7 +46,7 @@ function Feat() {
                 ></div>
                 <div className="col-md-8">
                   <div className="info">
-                    <h5 className="mb-15">2. Αποδοχή ή απόριψη</h5>
+                    <h5 className="mb-15">2. Αποδοχή ή απόρριψη</h5>
                     <p>
                     Στην περίπτωση της αποδοχής, τα βήματα συνεχίζονται.
                     </p>
