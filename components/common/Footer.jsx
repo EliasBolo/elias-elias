@@ -59,16 +59,10 @@ function Footer() {
                   </a>
                 </li>
                 <li className="hover-this cursor-pointer ml-10">
-                  <a href="#0" className="hover-anim">
+                  <a href="https://www.instagram.com/elias_elias2022/" className="hover-anim">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </li>
-                <li className="hover-this cursor-pointer ml-10">
-                  <a href="#0" className="hover-anim">
-                    <i className="fab fa-linkedin-in"></i>
-                  </a>
-                </li>
-
               </ul>
             </div>
           </div>
