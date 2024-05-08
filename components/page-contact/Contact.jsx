@@ -20,18 +20,12 @@ function Contact() {
               </div>
 
               <div className="social-icon mt-50">
-                <a href="#0">
-                  <i className="fab fa-facebook-f"></i>
-                </a>
-                <a href="#0">
-                  <i className="fab fa-dribbble"></i>
-                </a>
-                <a href="#0">
-                  <i className="fab fa-behance"></i>
-                </a>
-                <a href="#0">
-                  <i className="fab fa-instagram"></i>
-                </a>
+              <a href="https://www.facebook.com/doubleelias" className="hover-anim">
+                    <i className="fab fa-facebook-f"></i>
+                  </a>
+                  <a href="https://www.instagram.com/elias_elias2022/" className="hover-anim">
+                    <i className="fab fa-instagram"></i>
+                  </a>
               </div>
             </div>
           </div>
