@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 function Contact() {
   return (
@@ -20,12 +21,18 @@ function Contact() {
               </div>
 
               <div className="social-icon mt-50">
-              <a href="https://www.facebook.com/doubleelias" className="hover-anim">
+              <ul className="rest social-icon d-flex align-items-center">
+                <li className="hover-this cursor-pointer">
+                  <a href="https://www.facebook.com/doubleelias" target="_blank">
                     <i className="fab fa-facebook-f"></i>
                   </a>
-                  <a href="https://www.instagram.com/elias_elias2022/" className="hover-anim">
+                </li>
+                <li className="hover-this cursor-pointer ml-10">
+                  <a href="https://www.instagram.com/elias_elias2022/" target="_blank">
                     <i className="fab fa-instagram"></i>
                   </a>
+                </li>
+              </ul>
               </div>
             </div>
           </div>
