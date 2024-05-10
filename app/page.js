@@ -10,7 +10,7 @@ import Header from '@/components/home-main/Header';
 import Intro from '@/components/home-main/Intro';
 import Marq2 from '@/components/common/Marq2';
 import Navbar from '@/components/common/Navbar';
-import Portfolio from '@/components/home-main/Portfolio';
+import Portfolio from '@/components/home-digital-agency/Portfolio';
 import Services from '@/components/home-main/Services';
 import Testimonials from '@/components/home-main/Testimonials';
 import Script from 'next/script';
