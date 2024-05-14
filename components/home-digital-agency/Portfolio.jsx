@@ -81,7 +81,7 @@ function Portfolio() {
                 <div className="info d-flex align-items-end">
                   <h4>
                     <span className="mr-10 fz-16">01.</span>{' '}
-                    <a href="/project-details">Vasilopoulos Farms</a>
+                    <a>Vasilopoulos Farms</a>
                   </h4>
                   <h6 className="sub-title p-color ml-20">/ Branding / Business Plan</h6>
                 </div>
