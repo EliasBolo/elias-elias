@@ -11,6 +11,7 @@ export default function RootLayout({ children }) {
   strategy="beforeInteractive"></script>
     </head>
     <body>
+      {children}
         <SpeedInsights />
       </body>
   </html>;
