@@ -4,5 +4,6 @@
   "/page-contact/page": "app/page-contact/page.js",
   "/page-about/page": "app/page-about/page.js",
   "/page-services/page": "app/page-services/page.js",
-  "/portfolio-masonry/page": "app/portfolio-masonry/page.js"
+  "/portfolio-masonry/page": "app/portfolio-masonry/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

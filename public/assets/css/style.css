@@ -226,6 +226,19 @@ figure {
   color: #c6c8c9;
 }
 
+.logotext {
+  font-family: Cinzel,sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+/* Media query for smaller devices */
+@media screen and (max-width: 768px) {
+  .logotext {
+    font-size: 20px; /* Adjust the font size for smaller devices */
+  }
+}
+
 .btn:hover,
 .btn:focus,
 .btn:active {
@@ -3674,8 +3687,8 @@ body.loaded {
 .navbar .logo:after {
   content: '';
   position: absolute;
-  top: -30px;
-  bottom: -30px;
+  top: 10px;
+  bottom: -10px;
   right: -30px;
   border-right: 1px solid rgba(255, 255, 255, 0.1);
 }

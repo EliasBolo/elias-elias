@@ -42,8 +42,8 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg bord blur">
       <div className="container o-hidden">
-        <p>
-          <a className="logo icon-img-100" href="/" alt="logo">Elias & Elias</a>
+        <p className='logotext'>
+          <a className="logo icon-img-200" href="/" alt="logo">Elias & Elias</a>
         </p>
         <button
           className="navbar-toggler"
