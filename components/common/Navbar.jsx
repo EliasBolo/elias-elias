@@ -42,10 +42,9 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg bord blur">
       <div className="container o-hidden">
-        <a className="logo icon-img-100" href="#">
-          <img src="/assets/imgs/logo-light.png" alt="logo" />
-        </a>
-
+        <p>
+          <a className="logo icon-img-100" href="/" alt="logo">Elias & Elias</a>
+        </p>
         <button
           className="navbar-toggler"
           type="button"
@@ -76,9 +75,6 @@ function Navbar() {
                 <span className="rolling-text">Η ΕΤΑΙΡΙΑ</span>
               </a>
             </li>
-            
-            
-        {/*Here i am simply activating these for later
             <li className="nav-item">
               <a className="nav-link" href="/page-services">
                 <span className="rolling-text">ΥΠΗΡΕΣΙΕΣ</span>
@@ -89,8 +85,6 @@ function Navbar() {
                 <span className="rolling-text">ΕΡΓΑ</span>
               </a>
             </li>
-        */}
-        
             <li className="nav-item">
               <a className="nav-link" href="/page-contact">
                 <span className="rolling-text">ΕΠΙΚΟΙΝΩΝΙΑ</span>
