@@ -83,7 +83,7 @@ function Portfolio() {
                     <span className="mr-10 fz-16">01.</span>{' '}
                     <a>Vasilopoulos Farms</a>
                   </h4>
-                  <h6 className="sub-title p-color ml-20">/ Branding / Business Plan</h6>
+                  <h6 className="sub-title p-color ml-20">/ Branding</h6>
                 </div>
                 <div className="img">
                   <img src="/assets/imgs/works/1/1.jpg" alt="" />
@@ -97,9 +97,9 @@ function Portfolio() {
                 <div className="info d-flex align-items-end">
                   <h4>
                     <span className="mr-10 fz-16">02.</span>{' '}
-                    <a href="/project-details">Olive Leaf Tea</a>
+                    <a>Olive Leaf Tea</a>
                   </h4>
-                  <h6 className="sub-title p-color ml-20">/ Marketing Plan / Digital marketing</h6>
+                  <h6 className="sub-title p-color ml-20">/ Marketing</h6>
                 </div>
                 <div className="img">
                   <img src="/assets/imgs/works/1/2.jpeg" alt="" />
@@ -113,9 +113,9 @@ function Portfolio() {
                 <div className="info d-flex align-items-end">
                   <h4>
                     <span className="mr-10 fz-16">03.</span>{' '}
-                    <a href="/project-details">Vasilikos</a>
+                    <a>Vasilikos</a>
                   </h4>
-                  <h6 className="sub-title p-color ml-20">/ Digital marketing / Web Development</h6>
+                  <h6 className="sub-title p-color ml-20">/ Marketing</h6>
                 </div>
                 <div className="img">
                   <img src="/assets/imgs/works/1/3.jpg" alt="" />
@@ -129,9 +129,9 @@ function Portfolio() {
                 <div className="info d-flex align-items-end">
                   <h4>
                     <span className="mr-10 fz-16">04.</span>{' '}
-                    <a href="/project-details">Armantanis</a>
+                    <a>Armantanis</a>
                   </h4>
-                  <h6 className="sub-title p-color ml-20">/ Web Design - Development</h6>
+                  <h6 className="sub-title p-color ml-20">/ Web Design</h6>
                 </div>
                 <div className="img">
                   <img src="/assets/imgs/works/1/1.jpg" alt="" />
@@ -145,7 +145,7 @@ function Portfolio() {
                 <div className="info d-flex align-items-end">
                   <h4>
                     <span className="mr-10 fz-16">05.</span>{' '}
-                    <a href="/project-details">Ktima Esperides</a>
+                    <a>Ktima Esperides</a>
                   </h4>
                   <h6 className="sub-title p-color ml-20">/ Web Development</h6>
                 </div>
