@@ -24,9 +24,9 @@ function Intro2() {
           <div className="col-lg-6 valign">
             <div>
               <div className="sec-head mb-50">
-                <h6 className="sub-title main-color mb-15">Why choose us?</h6>
+                <h6 className="sub-title main-color mb-15">ΓΙΑΤΙ ΝΑ ΜΑΣ ΕΠΙΛΕΞΕΤΕ</h6>
                 <h3>
-                  The creative process behind <br /> our digital marketing.
+                  The creative process behind <br /> our marketing knowledge management.
                 </h3>
               </div>
               <div className="accordion bord">

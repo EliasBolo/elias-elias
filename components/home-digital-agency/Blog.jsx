@@ -7,7 +7,7 @@ function Blog() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              <span className="sub-title main-color mb-5">Our Blogs</span>
+              <span className="sub-title main-color mb-5">ΕΝΗΜΕΡΩΣΗ</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
                   Latest <span className="fw-200">News.</span>
@@ -19,7 +19,7 @@ function Blog() {
                 href="/blog-grid-sidebar"
                 className="butn butn-sm butn-bord radius-30"
               >
-                <span>View All</span>
+                <span>ΠΡΟΒΟΛΗ ΟΛΩΝ</span>
               </a>
               <span className="icon ti-arrow-top-right"></span>
             </div>

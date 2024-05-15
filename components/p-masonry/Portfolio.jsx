@@ -11,15 +11,15 @@ function Portfolio() {
         <div className="row mb-80">
           <div className="col-lg-4">
             <div className="sec-head">
-              <h6 className="sub-title main-color mb-10">DISCOVER OUR CASES</h6>
-              <h3>Latest Projects</h3>
+              <h6 className="sub-title main-color mb-10"> ΤΟ ΕΡΓΟ ΜΑΣ</h6>
+              <h3>Μερικά Projects</h3>
             </div>
           </div>
           <div className="filtering col-lg-8 d-flex justify-content-end align-items-end">
             <div>
               <div className="filter">
                 <span data-filter="*" className="active" data-count="08">
-                  All
+                  ΟΛΑ
                 </span>
                 <span data-filter=".design" data-count="03">
                   Design

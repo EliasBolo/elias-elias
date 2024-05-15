@@ -31,7 +31,7 @@ function Services() {
               <div>
                 <span className="num">01</span>
                 <div>
-                  <span className="sub-title main-color mb-10">MARKETING</span>
+                  <span className="sub-title main-color mb-10">MARKETING / DIGITAL MARKETING</span>
                   <h2>
                     Re/ <span className="fw-200">Branding</span>
                   </h2>
@@ -41,7 +41,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  Εξυπηρετούμε απο την εταιρική ταυτότητα, το Βusiness Plan, με Digital Marketing, μεχρι και την διάθεση του προϊόντος.
+                  Εξυπηρετούμε απο την εταιρική ταυτότητα, το Βusiness Plan, την προώθηση ( Digital Marketing ) μέχρι και την διάθεση του προϊόντος.
                 </p>
               </div>
             </div>
@@ -71,7 +71,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                 Προσφέρουμε συμβουλευτικές υπηρεσίες στον τομέα της τεχνολογίας, βοηθώντας τους πελάτες μας να επιτύχουν.
+                 Προσφέρουμε συμβουλευτικές υπηρεσίες στον τομέα της τεχνολογίας, δημιουργόντας υπεραξίες & οικονομίες κλίμακος.
                 </p>
               </div>
             </div>
@@ -101,7 +101,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  Κατασκευάζουμε εφαρμογές διαδικτύου ( ιστοσελίδες, συστημάτα κρατήσεων, e-shop ) & mobile apps.
+                  Κατασκευάζουμε εφαρμογές διαδικτύου ( ιστοσελίδες, συστημάτα κρατήσεων, e-shop ) & mobile apps, κατά τις ανάγκες της επιχείρησης.
                 </p>
               </div>
             </div>

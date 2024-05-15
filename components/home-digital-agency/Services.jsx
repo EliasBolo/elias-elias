@@ -15,14 +15,14 @@ function Services() {
         <div className="sec-head mb-80">
           <div className="row">
             <div className="col-lg-4">
-              <h6 className="title-bord mb-30">Our Services</h6>
+              <h6 className="title-bord mb-30">ΟΙ ΥΠΗΡΕΣΙΕΣ ΜΑΣ</h6>
             </div>
             <div className="col-lg-8">
               <div className="text">
                 <h4>
-                  From the inception of a project to its completion, we employ a
-                  comprehensive and holistic approach that ensures all aspects
-                  and stages are thoughtfully and thoroughly addressed.
+                Από την έναρξη ενός έργου έως την ολοκλήρωσή του, 
+                εφαρμόζουμε μια ολοκληρωμένη και ολιστική προσέγγιση 
+                που διασφαλίζει ότι όλες οι πτυχές και τα στάδια αντιμετωπίζονται προσεκτικά και διεξοδικά.
                 </h4>
               </div>
             </div>
