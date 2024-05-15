@@ -1941,6 +1941,8 @@ img.left {
 
 .underline span {
   text-decoration: underline;
+  letter-spacing: 0,8px;
+  text-underline-offset: 4px;
 }
 
 .undecro:hover {
