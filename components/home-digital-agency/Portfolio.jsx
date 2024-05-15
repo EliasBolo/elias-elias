@@ -147,7 +147,7 @@ function Portfolio() {
                     <span className="mr-10 fz-16">05.</span>{' '}
                     <a>Ktima Esperides</a>
                   </h4>
-                  <h6 className="sub-title p-color ml-20">/ Web Development</h6>
+                  <h6 className="sub-title p-color ml-20">/ Web Design</h6>
                 </div>
                 <div className="img">
                   <img src="/assets/imgs/works/1/2.jpeg" alt="" />
