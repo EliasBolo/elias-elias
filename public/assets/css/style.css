@@ -235,7 +235,9 @@ figure {
 /* Media query for smaller devices */
 @media screen and (max-width: 768px) {
   .logotext {
-    font-size: 20px; /* Adjust the font size for smaller devices */
+    font-size: 22px; /* Adjust the font size for smaller devices */
+    white-space: nowrap; /* Prevent wrapping of text */
+    display: inline-block; /* Ensure the anchor element behaves like a block element */
   }
 }
 
