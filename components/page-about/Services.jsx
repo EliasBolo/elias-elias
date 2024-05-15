@@ -7,10 +7,10 @@ function Services() {
         <div className="sec-head mb-80">
           <div className="d-flex align-items-center">
             <div>
-              <span className="sub-title main-color mb-5">Our Specialize</span>
+              <span className="sub-title main-color mb-5">Η ΕΞΕΙΔΙΚΕΥΣΗ ΜΑΣ</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Featured <span className="fw-200">Services.</span>
+                  PREMIUM <span className="fw-200">Services.</span>
                 </span>
               </h3>
             </div>
@@ -19,7 +19,7 @@ function Services() {
                 href="/page-services"
                 className="butn butn-sm butn-bord radius-30"
               >
-                <span>View All</span>
+                <span>ΠΡΟΒΟΛΗ ΟΛΩΝ</span>
               </a>
               <span className="icon ti-arrow-top-right"></span>
             </div>
@@ -31,9 +31,9 @@ function Services() {
               <div>
                 <span className="num">01</span>
                 <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
+                  <span className="sub-title main-color mb-10">MARKETING</span>
                   <h2>
-                    UI / UX <span className="fw-200">Design</span>
+                    Re/ <span className="fw-200">Branding</span>
                   </h2>
                 </div>
               </div>
@@ -41,15 +41,14 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                  Εξυπηρετούμε απο την εταιρική ταυτότητα, το Βusiness Plan, με Digital Marketing, μεχρι και την διάθεση του προϊόντος.
                 </p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
                 <img src="/assets/imgs/serv-img/1.jpg" alt="" />
-                <a href="/page-services-details">
+                <a> {/*href="/page-services-details"*/}
                   <span className="ti-arrow-top-right"></span>
                 </a>
               </div>
@@ -62,9 +61,9 @@ function Services() {
               <div>
                 <span className="num">02</span>
                 <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
+                  <span className="sub-title main-color mb-10">INFORMATION TECHNOLOGY</span>
                   <h2>
-                    Brand <span className="fw-200">Strategy</span>
+                    IT <span className="fw-200">Consulting</span>
                   </h2>
                 </div>
               </div>
@@ -72,15 +71,14 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                 Προσφέρουμε συμβουλευτικές υπηρεσίες στον τομέα της τεχνολογίας, βοηθώντας τους πελάτες μας να επιτύχουν.
                 </p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
                 <img src="/assets/imgs/serv-img/2.jpg" alt="" />
-                <a href="/page-services-details">
+                <a> {/*href="/page-services-details"*/}
                   <span className="ti-arrow-top-right"></span>
                 </a>
               </div>
@@ -93,9 +91,9 @@ function Services() {
               <div>
                 <span className="num">03</span>
                 <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
+                  <span className="sub-title main-color mb-10">Web Development</span>
                   <h2>
-                    SEO / <span className="fw-200">Marketing</span>
+                    Websites / <span className="fw-200">Apps</span>
                   </h2>
                 </div>
               </div>
@@ -103,77 +101,14 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
+                  Κατασκευάζουμε εφαρμογές διαδικτύου ( ιστοσελίδες, συστημάτα κρατήσεων, e-shop ) & mobile apps.
                 </p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
                 <img src="/assets/imgs/serv-img/3.jpg" alt="" />
-                <a href="/page-services-details">
-                  <span className="ti-arrow-top-right"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="item">
-          <div className="row md-marg align-items-end">
-            <div className="col-lg-4">
-              <div>
-                <span className="num">04</span>
-                <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
-                  <h2>
-                    Brand <span className="fw-200">Strategy</span>
-                  </h2>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="text md-mb80">
-                <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
-                </p>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/2.jpg" alt="" />
-                <a href="/page-services-details">
-                  <span className="ti-arrow-top-right"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="item pb-0">
-          <div className="row md-marg align-items-end">
-            <div className="col-lg-4">
-              <div>
-                <span className="num">05</span>
-                <div>
-                  <span className="sub-title main-color mb-10">Web Design</span>
-                  <h2>
-                    SEO / <span className="fw-200">Marketing</span>
-                  </h2>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="text md-mb80">
-                <p>
-                  We help our client suceed by creating identities, digital
-                  experiences, and printmaterials that communicate clearly
-                </p>
-              </div>
-            </div>
-            <div className="col-lg-4">
-              <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/3.jpg" alt="" />
-                <a href="/page-services-details">
+                <a> {/*href="/page-services-details"*/}
                   <span className="ti-arrow-top-right"></span>
                 </a>
               </div>

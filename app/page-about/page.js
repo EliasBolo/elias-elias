@@ -44,6 +44,7 @@ export default function Home() {
             <Header />
             <Intro />
             <Numbers />
+            <Services />
             <Clients />
             <Marq2 />
           </main>
