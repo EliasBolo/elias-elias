@@ -55,16 +55,16 @@ function Portfolio() {
                 <img src="/assets/imgs/works/1/1.webp" alt="Vasilopoulos Farms" />
               </div>
               <div id="tab-2" className="tab-img">
-                <img src="/assets/imgs/works/1/2.webp" alt="" />
+                <img src="/assets/imgs/works/1/2.webp" alt="Olive Oil Tea" />
               </div>
               <div id="tab-3" className="tab-img">
-                <img src="/assets/imgs/works/1/3.webp" alt="" />
+                <img src="/assets/imgs/works/1/3.webp" alt="Vasilikos" />
               </div>
               <div id="tab-4" className="tab-img">
-                <img src="/assets/imgs/works/1/4.webp" alt="" />
+                <img src="/assets/imgs/works/1/4.webp" alt="Armantanis" />
               </div>
               <div id="tab-5" className="tab-img">
-                <img src="/assets/imgs/works/1/4.jpg" alt="" />
+                <img src="/assets/imgs/works/1/4.jpg" alt="Ktima Eseperides" />
               </div>
               <div className="circle-blur">
                 <img src="/assets/imgs/patterns/blur1.png" alt="" />

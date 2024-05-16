@@ -26,14 +26,14 @@ function Header() {
             <div className="caption">
               <div className="sub-title fz-12">
                 <a href="#0">
-                  <span>Design , </span>
+                  <span>Marketing , </span>
                 </a>
                 <a href="#0">
-                  <span>Development</span>
+                  <span>Digital</span>
                 </a>
               </div>
               <h1 className="fz-55 mt-30">
-                Network of wormholes colonies extraordinary claims require.
+              Πόσο κοστίζει το digital marketing και γιατί είναι σημαντικό?
               </h1>
             </div>
             <div className="info d-flex mt-40 align-items-center">
@@ -50,7 +50,7 @@ function Header() {
                       </a>
                       <a href="#0" className="ml-20">
                         <span className="opacity-7">Author</span>
-                        <h6 className="fz-16">UiCamp</h6>
+                        <h6 className="fz-16">Elias</h6>
                       </a>
                     </div>
                   </div>
@@ -60,12 +60,6 @@ function Header() {
                       <h6 className="fz-16">August 6, 2021</h6>
                     </a>
                   </div>
-                </div>
-              </div>
-              <div className="right-info ml-auto">
-                <div>
-                  <span className="pe-7s-comment fz-18 mr-10"></span>
-                  <span className="opacity-7">02 Comments</span>
                 </div>
               </div>
             </div>

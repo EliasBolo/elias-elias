@@ -47,7 +47,7 @@ function Services() {
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/1.jpg" alt="" />
+                <img src="/assets/imgs/serv-img/1_1.jpg" alt="" />
                 <a> {/*href="/page-services-details"*/}
                   <span className="ti-arrow-top-right"></span>
                 </a>
@@ -71,13 +71,13 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                 Προσφέρουμε συμβουλευτικές υπηρεσίες στον τομέα της τεχνολογίας, δημιουργόντας υπεραξίες & οικονομίες κλίμακος.
+                 Προσφέρουμε συμβουλευτικές υπηρεσίες στον τομέα της τεχνολογίας, δημιουργώντας υπεραξίες & οικονομίες κλίμακος.
                 </p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/2.jpg" alt="" />
+                <img src="/assets/imgs/serv-img/2_2.jpg" alt="" />
                 <a> {/*href="/page-services-details"*/}
                   <span className="ti-arrow-top-right"></span>
                 </a>
@@ -107,7 +107,7 @@ function Services() {
             </div>
             <div className="col-lg-4">
               <div className="img fit-img">
-                <img src="/assets/imgs/serv-img/3.jpg" alt="" />
+                <img src="/assets/imgs/serv-img/3_3.jpg" alt="" />
                 <a> {/*href="/page-services-details"*/}
                   <span className="ti-arrow-top-right"></span>
                 </a>

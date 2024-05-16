@@ -11,32 +11,20 @@ function Blog() {
                 <article>
                   <div className="text">
                     <p>
-                      <span className="spec-letter">Q</span> new report said
-                      earlier this week that Apple is working on a brand new
-                      laptop. Apple plans to release a 15-inch MacBook Air in
-                      2023, a first for the Air series. A trusted Apple insider
-                      with a proven track record confirmed that Apple is working
-                      on the larger MacBook Air.
+                      <span className="spec-letter">T</span> ο κόστος του ψηφιακού μάρκετινγκ και ανάλυσης μπορεί να ποικίλει ανάλογα με πολλούς παράγοντες, όπως η έκταση του έργου, οι απαιτήσεις της εταιρείας σας και οι υπηρεσίες που χρειάζεστε.
                     </p>
                   </div>
                   <div className="text">
                     <p>
-                      However, Apple might not include it in the Air series when
-                      it launches it. As for the notebook’s release date, the
-                      15-inch MacBook isn’t coming soon. It’ll get a late 2023
-                      release at best, according to the new claims.
+                    Εδώ σας δίνουμε μια γενική εκτίμηση.
                     </p>
                   </div>
                   <div className="title mt-30">
-                    <h4>What sizes do MacBook Airs come in?</h4>
+                    <h4>Το κόστος διαφέρει κατα περίπτωση;</h4>
                   </div>
                   <div className="text mt-20">
                     <p>
-                      Apple currently sells only one MacBook Air size. The
-                      laptop comes in a 13-inch version that matches the
-                      pre-2021 13-inch MacBook Pro size. Previously, Apple sold
-                      an 11-inch MacBook Air, but the company discontinued that
-                      model in 2017.
+                    Για το ψηφιακό μάρκετινγκ, το κόστος είναι συνήθως βασισμένο στο μοντέλο αμοιβής που χρησιμοποιεί ο πάροχος υπηρεσιών(Marketing Agency). Μερικοί μπορεί να χρεώνουν με βάση τον αριθμό των ωρών εργασίας, ενώ άλλοι μπορεί να προσφέρουν πακέτα υπηρεσιών με σταθερές τιμές. Γενικά, μια στρατηγική ψηφιακού μάρκετινγκ για μια μικρή ή μεσαία επιχείρηση μπορεί να κοστίσει κάπου από μερικές εκατοντάδες, έως μερικές χιλιάδες ευρώ το μήνα, ανάλογα με την έκταση των δραστηριοτήτων και τους στόχους που θέτετε.
                     </p>
                   </div>
                 </article>
@@ -44,10 +32,10 @@ function Blog() {
                 <div className="post-qoute mt-50">
                   <h6 className="fz-20">
                     <span className="l-block">
-                      And the day came when the risk to remain tight in a bud
-                      was more painful than the risk it took to blossom.
+                    Το ψηφιακό μάρκετινγκ έχει γίνει ολοένα και πιο σημαντικό
+                     στον σύγχρονο επιχειρηματικό κόσμο
                     </span>
-                    <span className="sub-title mt-20 mb-0"> - UiCamp</span>
+                    <span className="sub-title mt-20 mb-0"> - Ελίας</span>
                   </h6>
                 </div>
 
@@ -67,42 +55,41 @@ function Blog() {
                 </div>
 
                 <div className="title mb-10">
-                  <h4>Apple currently sells.</h4>
+                  <h4>Σας δίνει αξία</h4>
                 </div>
 
                 <div className="text mb-20">
                   <p>
-                    A new report said earlier this week that Apple is working on
-                    a brand new laptop. Apple plans to release a 15-inch MacBook
-                    Air in 2023, a first for the Air series. A trusted Apple
-                    insider with a proven track record confirmed that Apple is
-                    working on the larger MacBook Air.
+                  Το ψηφιακό μάρκετινγκ έχει γίνει ολοένα και πιο σημαντικό στον σύγχρονο επιχειρηματικό κόσμο για πολλούς λόγους:
                   </p>
                 </div>
 
                 <div className="unorder-list mb-30">
-                  <h6 className="mb-15">Ordered & Unordered Lists.</h6>
+                  <h6 className="mb-15">Τα οφέλη του διαδικτύου</h6>
                   <ul className="rest">
-                    <li>Yet this above sewed flirted opened ouch</li>
-                    <li>Goldfinch realistic sporadic ingenuous</li>
+                    <li>Ευκολία πρόσβασης στο κοινό</li>
+                    <li>Μέτρηση απόδοσης</li>
                     <li>
-                      Abominable this abidin far successfully then like piquan
+                    Στοχευμένες εκστρατείες
                     </li>
+                    <li>Δημιουργία αναγνωρισιμότητας και επικοινωνίας</li>
                   </ul>
                 </div>
 
                 <div className="order-list mb-30">
-                  <h6 className="mb-15">Ordered & Unordered Lists.</h6>
+                  <h6 className="mb-15">Αναλυτικά τι κερδίζουμε σε βάθος χρόνου</h6>
                   <ul className="rest">
                     <li>
-                      <span>01 -</span> Yet this above sewed flirted opened ouch
+                      <span>01 -</span> Μέσω του ψηφιακού μάρκετινγκ, μπορείτε να φτάσετε το κοινό σας με πολύ πιο στοχευμένο τρόπο σε σύγκριση με παραδοσιακές μεθόδους, όπως οι διαφημίσεις στα μέσα μαζικής ενημέρωσης.
                     </li>
                     <li>
-                      <span>02 -</span> Goldfinch realistic sporadic ingenuous
+                      <span>02 -</span> Ο ψηφιακός κόσμος παρέχει εργαλεία που επιτρέπουν τη μέτρηση της απόδοσης των διαφημιστικών εκστρατειών σας με ακρίβεια, κάτι που επιτρέπει την προσαρμογή και βελτίωση της στρατηγικής σας.
                     </li>
                     <li>
-                      <span>03 -</span> Abominable this abidin far successfully
-                      then like piquan
+                      <span>03 -</span> Μέσω των ψηφιακών μέσων, μπορείτε να στοχεύσετε το κοινό σας με βάση διάφορα κριτήρια, όπως η ηλικία, το φύλο, η τοποθεσία και τα ενδιαφέροντα, βελτιώνοντας έτσι την αποτελεσματικότητα των εκστρατειών.
+                    </li>
+                    <li>
+                      <span>04 -</span> Το ψηφιακό μάρκετινγκ σάς επιτρέπει να δημιουργήσετε έναν διαρκή και ενεργό διάλογο με το κοινό σας μέσω κοινωνικών μέσων, ιστοσελίδων και άλλων ψηφιακών πλατφορμών.
                     </li>
                   </ul>
                 </div>

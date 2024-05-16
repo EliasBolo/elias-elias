@@ -11,11 +11,6 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/page-contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page-contact/page.js"
-    ],
     "/page-about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -26,11 +21,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page-services/page.js"
     ],
-    "/portfolio-masonry/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/portfolio-masonry/page.js"
-    ],
     "/blog-details/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -40,6 +30,16 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/blog-grid-sidebar/page.js"
+    ],
+    "/blog-marketing-cost/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog-marketing-cost/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
     ]
   }
 }

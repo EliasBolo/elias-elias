@@ -30,19 +30,19 @@ function Blog() {
             <div className="item md-mb50">
               <div className="info sub-title p-color d-flex align-items-center mb-20">
                 <div>
-                  <a href="/blog-grid-sidebar">By : Admin</a>
+                  <a href="/blog-grid-sidebar">By : ELIAS</a>
                 </div>
                 <div className="ml-30">
-                  <a href="/blog-grid-sidebar">August 14, 2023</a>
+                  <a href="/blog-grid-sidebar">MAY 16, 2024</a>
                 </div>
               </div>
               <div className="img fit-img">
                 <img src="/assets/imgs/blog/1.jpg" alt="" />
               </div>
               <div className="cont pt-30">
-                <h5>Design Inspiration: Where to Find Creative Ideas</h5>
+                <h5>Πόσο κοστίζει το digital marketing και γιατί είναι σημαντικό?</h5>
                 <a
-                  href="/blog-details"
+                  href="/blog-marketing-cost"
                   className="butn-crev d-flex align-items-center mt-30"
                 >
                   <span className="hover-this">
@@ -50,7 +50,7 @@ function Blog() {
                       <i className="ti-arrow-top-right"></i>
                     </span>
                   </span>
-                  <span className="text">Read more</span>
+                  <span className="text">Διαβάστε το άρθρο</span>
                 </a>
               </div>
             </div>
