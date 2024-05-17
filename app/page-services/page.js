@@ -10,7 +10,7 @@ import Script from 'next/script';
 import Clients from '@/components/common/Clients';
 import Services from '@/components/home-digital-agency/Services';
 import Intro2 from '@/components/home-digital-agency/Intro2';
-import Testimonials from '@/components/home-digital-agency/Testimonials';
+import Testimonials from '@/components/home-main/Testimonials';
 import Blog from '@/components/home-digital-agency/Blog';
 import Header from '@/components/page-services/Header';
 import Numbers from '@/components/page-services/Numbers';

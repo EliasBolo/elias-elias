@@ -148,9 +148,8 @@ h3 {
 }
 
 h4 {
-  font-size: 32px;
+  font-size: 22px;
 }
-
 h5 {
   font-size: 25px;
 }
@@ -2133,6 +2132,7 @@ img.left {
 -------------------------------------------------------*/
 .text-white {
   color: #fff;
+
 }
 
 .text-black {
