@@ -15,6 +15,7 @@ import Services from '@/components/home-main/Services';
 import Testimonials from '@/components/home-main/Testimonials';
 import Script from 'next/script';
 import Marq from '@/components/home-main/Marq';
+import Blog from '@/components/home-digital-agency/Blog';
 
 export const metadata = {
   title: 'Elias&Elias - A Futuristic Digital Marketing Agency',
@@ -50,6 +51,7 @@ export default function Home() {
             <Feat />
             <Testimonials />
             <Clients />
+            <Blog />
             <Marq2 />
           </main>
           <Footer />
