@@ -71,7 +71,7 @@ function Blog() {
               <div className="cont pt-30">
                 <h5>Marketing σε περίοδο κρίσης!<br /><br /></h5>
                 <a
-                  href="/blog-marketing-cost"
+                  href="/blog-marketing-crisis"
                   className="butn-crev d-flex align-items-center mt-30"
                 >
                   <span className="hover-this">
@@ -100,7 +100,7 @@ function Blog() {
               <div className="cont pt-30">
                 <h5>Πότε και πως ξεκίνησε το Marketing?<br /><br /></h5>
                 <a
-                  href="/blog-marketing-cost"
+                  href="/blog-marketing-start"
                   className="butn-crev d-flex align-items-center mt-30"
                 >
                   <span className="hover-this">

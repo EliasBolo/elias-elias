@@ -93,15 +93,6 @@ function Blog() {
                     </li>
                   </ul>
                 </div>
-
-                <div className="text">
-                  <p>
-                    However, Apple might not include it in the Air series when
-                    it launches it. As for the notebook’s release date, the
-                    15-inch MacBook isn’t coming soon. It’ll get a late 2023
-                    release at best, according to the new claims.
-                  </p>
-                </div>
               </div>
               <div className="info-area flex pt-50 bord-thin-top">
                 <div>
@@ -110,8 +101,7 @@ function Blog() {
                       <span>Tags :</span>
                     </div>
                     <div>
-                      <a href="/blog-classic">Tech</a>
-                      <a href="/blog-classic">UiCamp</a>
+                      <a href="/blog-classic">Marketing</a>
                     </div>
                   </div>
                 </div>
@@ -134,81 +124,6 @@ function Blog() {
                   </div>
                 </div>
               </div>
-              <div className="author-area mt-50 bord-thin-bottom">
-                <div className="flex">
-                  <div className="author-img mr-30">
-                    <div className="img">
-                      <img
-                        src="/assets/imgs/blog/author.png"
-                        alt=""
-                        className="circle-img"
-                      />
-                    </div>
-                  </div>
-                  <div className="cont valign">
-                    <div className="full-width">
-                      <h6 className="fw-600 mb-10">Chris Smith</h6>
-                      <p>
-                        Nulla eleifend, lectus eu gravida facilisis, ipsum metus
-                        faucibus eros, vitae vulputate nibh libero ac metus.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="comments-from mt-80">
-              <div className="mb-60">
-                <h3>Leave a comment</h3>
-              </div>
-              <form id="contact-form" method="post" action="contact.php">
-                <div className="messages"></div>
-
-                <div className="controls row">
-                  <div className="col-lg-6">
-                    <div className="form-group mb-30">
-                      <input
-                        id="form_name"
-                        type="text"
-                        name="name"
-                        placeholder="Name"
-                        required="required"
-                      />
-                    </div>
-                  </div>
-
-                  <div className="col-lg-6">
-                    <div className="form-group mb-30">
-                      <input
-                        id="form_email"
-                        type="email"
-                        name="email"
-                        placeholder="Email"
-                        required="required"
-                      />
-                    </div>
-                  </div>
-
-                  <div className="col-12">
-                    <div className="form-group">
-                      <textarea
-                        id="form_message"
-                        name="message"
-                        placeholder="Message"
-                        rows="4"
-                        required="required"
-                      ></textarea>
-                    </div>
-                    <div className="text-center">
-                      <div className="mt-30">
-                        <button type="submit">
-                          <span className="text">Post Comment</span>
-                        </button>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </form>
             </div>
           </div>
           <div className="col-lg-4">
