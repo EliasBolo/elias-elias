@@ -46,7 +46,7 @@ function Testimonials() {
                   className="swiper-container"
                   data-swiper="container"
                 >
-                  {data.slice(0, 2).map((item, i) => (
+                  {data.slice(0, 3).map((item, i) => (
                     <SwiperSlide key={i}>
                       <div className="item">
                         <div className="content">
