@@ -11,25 +11,15 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/blog-marketing-cost/page": [
+    "/page-about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog-marketing-cost/page.js"
+      "static/chunks/app/page-about/page.js"
     ],
-    "/blog-marketing-crisis/page": [
+    "/page-services/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog-marketing-crisis/page.js"
-    ],
-    "/blog-marketing-start/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog-marketing-start/page.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/page-services/page.js"
     ]
   }
 }
