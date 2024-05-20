@@ -6,8 +6,8 @@ import LoadingScreen from '@/components/common/loader';
 import Footer from '@/components/common/Footer';
 import Navbar from '@/components/common/Navbar';
 import Script from 'next/script';
-import Header from '@/components/blog-details/Header';
-import Blog from '@/components/blog-details/Blog';
+import Header from '@/components/blog-details/Header-marketing-crisis';
+import Blog from '@/components/blog-details/Blog-marketing-crisis';
 export const metadata = {
   title: 'Elias & Elias',
   icons: {
