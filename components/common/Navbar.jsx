@@ -86,6 +86,11 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
+              <a className="nav-link" href="/blog-grid-3column">
+                <span className="rolling-text">BLOG</span>
+              </a>
+            </li>
+            <li className="nav-item">
               <a className="nav-link" href="/page-contact">
                 <span className="rolling-text">ΕΠΙΚΟΙΝΩΝΙΑ</span>
               </a>

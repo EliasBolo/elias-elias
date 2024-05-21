@@ -9,7 +9,7 @@ import Script from 'next/script';
 import Header from '@/components/blog-grid-sidebar/Marketing-header';
 import Blogs from '@/components/blog-grid-sidebar/Blogs-marketing';
 export const metadata = {
-  title: 'Elias & Elias',
+  title: 'Elias & Elias - Blog, Marketing',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

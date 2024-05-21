@@ -9,7 +9,7 @@ import Script from 'next/script';
 import Header from '@/components/blog-details/Header';
 import Blog from '@/components/blog-details/Blog';
 export const metadata = {
-  title: 'Elias & Elias',
+  title: 'Elias & Elias - Πόσο κοστίζει το digital marketing?',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

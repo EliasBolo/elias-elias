@@ -34,7 +34,7 @@ function Blogs() {
                             <i className="ti-arrow-top-right"></i>
                           </span>
                         </span>
-                        <span className="text">Read more</span>
+                        <span className="text">Διαβάστε το άρθρο</span>
                       </a>
                     </div>
                   </div>
@@ -65,7 +65,7 @@ function Blogs() {
                             <i className="ti-arrow-top-right"></i>
                           </span>
                         </span>
-                        <span className="text">Read more</span>
+                        <span className="text">Διαβάστε το άρθρο</span>
                       </a>
                     </div>
                   </div>
@@ -96,7 +96,7 @@ function Blogs() {
                             <i className="ti-arrow-top-right"></i>
                           </span>
                         </span>
-                        <span className="text">Read more</span>
+                        <span className="text">Διαβάστε το άρθρο</span>
                       </a>
                     </div>
                   </div>

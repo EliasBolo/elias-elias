@@ -9,7 +9,7 @@ import Script from 'next/script';
 import Header from '@/components/blog-details/Header-marketing-start';
 import Blog from '@/components/blog-details/Blog-marketing-start';
 export const metadata = {
-  title: 'Elias & Elias',
+  title: 'Elias & Elias - Πότε και πως ξεκίνησε το Marketing?',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

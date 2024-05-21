@@ -1,7 +1,7 @@
 {
-  "/blog-marketing-crisis/page": "app/blog-marketing-crisis/page.js",
-  "/blog-grid-sidebar/page": "app/blog-grid-sidebar/page.js",
-  "/blog-marketing-start/page": "app/blog-marketing-start/page.js",
-  "/blog-marketing-cost/page": "app/blog-marketing-cost/page.js",
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blog-grid-marketing/page": "app/blog-grid-marketing/page.js",
+  "/page": "app/page.js",
+  "/blog-grid-3column/page": "app/blog-grid-3column/page.js",
+  "/blog-marketing-crisis/page": "app/blog-marketing-crisis/page.js"
 }

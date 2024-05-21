@@ -1,9 +1,9 @@
 {
   "pages": {
-    "/page": [
+    "/blog-grid-marketing/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/app/blog-grid-marketing/page.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
@@ -11,30 +11,25 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/page-contact/page": [
+    "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page-contact/page.js"
+      "static/chunks/app/page.js"
+    ],
+    "/blog-grid-3column/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog-grid-3column/page.js"
     ],
     "/blog-marketing-crisis/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/blog-marketing-crisis/page.js"
     ],
-    "/blog-grid-sidebar/page": [
+    "/_not-found/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog-grid-sidebar/page.js"
-    ],
-    "/blog-marketing-start/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog-marketing-start/page.js"
-    ],
-    "/blog-marketing-cost/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog-marketing-cost/page.js"
+      "static/chunks/app/_not-found/page.js"
     ]
   }
 }
