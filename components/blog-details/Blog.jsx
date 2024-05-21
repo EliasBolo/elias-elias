@@ -35,7 +35,7 @@ function Blog() {
                     Το ψηφιακό μάρκετινγκ έχει γίνει ολοένα και πιο σημαντικό
                      στον σύγχρονο επιχειρηματικό κόσμο
                     </span>
-                    <span className="sub-title mt-20 mb-0"> - Ελίας</span>
+                    <span className="sub-title mt-20 mb-0"> - Elias G.</span>
                   </h6>
                 </div>
 
