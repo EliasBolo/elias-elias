@@ -128,6 +128,7 @@ function Blog() {
           </div>
           <div className="col-lg-4">
             <div className="sidebar">
+              {/*
               <div className="widget">
                 <h6 className="title-widget">Search Here</h6>
                 <div className="search-box">
@@ -135,47 +136,36 @@ function Blog() {
                   <span className="icon pe-7s-search"></span>
                 </div>
               </div>
+              */}
               <div className="widget catogry">
                 <h6 className="title-widget">Categories</h6>
                 <ul className="rest">
                   <li>
                     <span>
-                      <a href="/blog-grid-sidebar">Business</a>
+                      <a>Business</a>
                     </span>
-                    <span className="ml-auto">33</span>
+                    <span className="ml-auto">00</span>
                   </li>
                   <li>
                     <span>
-                      <a href="/blog-grid-sidebar">Lifestyle</a>
+                      <a href="/blog-grid-marketing">Marketing</a>
                     </span>
-                    <span className="ml-auto">05</span>
+                    <span className="ml-auto">03</span>
                   </li>
                   <li>
                     <span>
-                      <a href="/blog-grid-sidebar">Creative</a>
+                      <a>Web Development</a>
                     </span>
-                    <span className="ml-auto">28</span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="/blog-grid-sidebar">WordPress</a>
-                    </span>
-                    <span className="ml-auto">17</span>
-                  </li>
-                  <li>
-                    <span>
-                      <a href="/blog-grid-sidebar">Design</a>
-                    </span>
-                    <span className="ml-auto">45</span>
+                    <span className="ml-auto">00</span>
                   </li>
                 </ul>
               </div>
               <div className="widget last-post-thum">
-                <h6 className="title-widget">latest Posts</h6>
+                <h6 className="title-widget">Πρόσφατα άρθρα</h6>
                 <div className="item d-flex align-items-center">
                   <div>
                     <div className="img">
-                      <a href="/blog-grid-sidebar">
+                      <a href="/blog-marketing-cost">
                         <img src="/assets/imgs/blog/c1.jpg" alt="" />
                         <span className="date">
                           <span>
@@ -187,11 +177,11 @@ function Blog() {
                   </div>
                   <div className="cont">
                     <span className="tag">
-                      <a href="/blog-grid-sidebar">Web Design</a>
+                      <a href="/blog-marketing-cost">Marketing</a>
                     </span>
                     <h6>
-                      <a href="/blog-grid-sidebar">
-                        ways to quickly increase traffic to your website
+                      <a href="/blog-marketing-cost">
+                      Πόσο κοστίζει το digital marketing και γιατί είναι σημαντικό?
                       </a>
                     </h6>
                   </div>
@@ -199,7 +189,7 @@ function Blog() {
                 <div className="item d-flex align-items-center">
                   <div>
                     <div className="img">
-                      <a href="/blog-grid-sidebar">
+                      <a href="/blog-marketing-crisis">
                         <img src="/assets/imgs/blog/c2.jpg" alt="" />
                         <span className="date">
                           <span>
@@ -211,11 +201,11 @@ function Blog() {
                   </div>
                   <div className="cont">
                     <span className="tag">
-                      <a href="/blog-grid-sidebar">Web Design</a>
+                      <a href="/blog-marketing-crisis">Marketing</a>
                     </span>
                     <h6>
-                      <a href="/blog-grid-sidebar">
-                        breaking the rules: using sqlite to demo web
+                      <a href="/blog-marketing-crisis">
+                      Marketing σε περίοδο κρίσης!
                       </a>
                     </h6>
                   </div>
@@ -223,7 +213,7 @@ function Blog() {
                 <div className="item d-flex align-items-center">
                   <div>
                     <div className="img">
-                      <a href="/blog-grid-sidebar">
+                      <a href="/blog-marketing-start">
                         <img src="/assets/imgs/blog/c3.jpg" alt="" />
                         <span className="date">
                           <span>
@@ -235,26 +225,17 @@ function Blog() {
                   </div>
                   <div className="cont">
                     <span className="tag">
-                      <a href="/blog-grid-sidebar">Web Design</a>
+                      <a href="/blog-marketing-start">Marketing</a>
                     </span>
                     <h6>
-                      <a href="/blog-grid-sidebar">
-                        building better ui designs with layout grids
+                      <a href="/blog-marketing-start">
+                      Πότε και πως ξεκίνησε το Marketing?
                       </a>
                     </h6>
                   </div>
                 </div>
               </div>
-              <div className="widget tags">
-                <h6 className="title-widget">Tags</h6>
-                <div>
-                  <a href="/blog-grid-sidebar">Creative</a>
-                  <a href="/blog-grid-sidebar">Design</a>
-                  <a href="/blog-grid-sidebar">Dark & Light</a>
-                  <a href="/blog-grid-sidebar">Minimal</a>
-                  <a href="/blog-grid-sidebar">Infolio</a>
-                </div>
-              </div>
+              
             </div>
           </div>
         </div>
