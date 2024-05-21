@@ -48,7 +48,7 @@ function Contact() {
                 id="contact-form"
                 className="form2"
                 method="post"
-                action="contact.php"
+                action="/api/contact"
               >
                 <div className="messages"></div>
 
