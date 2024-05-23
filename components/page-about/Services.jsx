@@ -41,7 +41,7 @@ function Services() {
             <div className="col-lg-4">
               <div className="text md-mb80">
                 <p>
-                  Εξυπηρετούμε απο την εταιρική ταυτότητα, το Βusiness Plan, την προώθηση ( Digital Marketing ) μέχρι και την διάθεση του προϊόντος.
+                  Εξυπηρετούμε απο την εταιρική ταυτότητα, το Βusiness Plan, την προώθηση (Digital Marketing) μέχρι και την διάθεση του προϊόντος.
                 </p>
               </div>
             </div>

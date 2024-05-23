@@ -157,6 +157,7 @@ h4 {
 }
 h5 {
   font-size: 25px;
+  font-weight: 400;
 }
 
 h6 {
@@ -3757,9 +3758,10 @@ body.loaded {
 }
 
 .sub-title {
-  font-size: 14px;
+  font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
+  font-weight: 400;
 }
 
 .title-bord {

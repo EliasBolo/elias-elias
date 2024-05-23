@@ -1,9 +1,5 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js",
   "/portfolio-masonry/page": "app/portfolio-masonry/page.js",
-  "/blog-grid-3column/page": "app/blog-grid-3column/page.js",
-  "/blog-grid-marketing/page": "app/blog-grid-marketing/page.js",
-  "/blog-marketing-crisis/page": "app/blog-marketing-crisis/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/page": "app/page.js"
 }
