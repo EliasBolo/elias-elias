@@ -26,8 +26,10 @@ body {
   color: #fff;
   background-color: #0f0f0f;
   font-size: 16px;
-  font-family: 'Poppins', sans-serif;
-  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  letter-spacing: 1px;
+  
   overflow-x: hidden !important;
 }
 
@@ -144,11 +146,14 @@ h2 {
 
 h3 {
   font-size: 30px;
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
 }
 
 h4 {
   font-size: 22px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
 }
 h5 {
   font-size: 25px;
@@ -186,6 +191,8 @@ span {
 a {
   display: inline-block;
   text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
 }
 
 a:hover {
@@ -2286,7 +2293,9 @@ img.left {
 }
 
 .fz-55 {
-  font-size: 55px !important;
+  font-size: 40px !important;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
 }
 
 .fz-60 {
