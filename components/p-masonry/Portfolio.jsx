@@ -92,10 +92,10 @@ function Portfolio() {
                 <img src="/assets/imgs/works/4/3.jpg" alt="" />
                 <div className="cont">
                   <h5>
-                    <a href="/project-details">A Nice guy</a>
+                    <a>Coming Soon</a>
                   </h5>
                   <p>
-                    <a href="/project-details">Graphic Design</a>
+                    <a href="/project-details">Logo Design</a>
                   </p>
                 </div>
               </div>
