@@ -80,7 +80,7 @@ function Portfolio() {
                     <a>Gia ta Sidera</a>
                   </h5>
                   <p>
-                    <a href="/project-details">Logo design</a>
+                    <a href="https://giatasidera.gr" target="_blank">Logo design</a>
                   </p>
                 </div>
               </div>
