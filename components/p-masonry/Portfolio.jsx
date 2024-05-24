@@ -110,7 +110,7 @@ function Portfolio() {
                     <a href="https://oliveleaf-tea.com" target="_blank">Olive Leaf tea</a>
                   </h5>
                   <p>
-                    <a href="/project-details">Marketing</a>
+                    <a href="https://oliveleaf-tea.com" target="_blank">Marketing</a>
                   </p>
                 </div>
               </div>
